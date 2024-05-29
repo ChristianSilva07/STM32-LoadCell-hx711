@@ -77,6 +77,6 @@ uint32_t hx711Data; // variable for reading
     osDelay(1);
 
 	  //read loadcell/hx7711
-	  hx711Data = HX711_Read(); // the hx711//Loadcell is reading right her
+	  hx711Data = HX711_Read(); // the hx711//Loadcell is reading
 }
   /* USER CODE END StartIOTask */

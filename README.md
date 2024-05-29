@@ -1,4 +1,4 @@
-// HX711/LoadCell Simple Code for STM32 (NO LIBRARY)
+// HX711/LoadCell Simple Code for STM32 (You don't need a library for this)
 
 // Select 2 pins on CubeMX for clock (CLK output push-pull) and data (DAT input no pull-up and no pull-down).
 
